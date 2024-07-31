@@ -18,6 +18,8 @@ USERS_TABLE = '''CREATE TABLE users(
     created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
 )'''
 
+# Comentario
+# Son cambios necesarios
 
 def system_clear(function):                             
 
